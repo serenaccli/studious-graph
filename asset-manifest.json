@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/studious_graph/static/css/main.e6c13ad2.css",
+    "main.js": "/studious_graph/static/js/main.f0a394f9.js",
+    "static/js/453.f161a193.chunk.js": "/studious_graph/static/js/453.f161a193.chunk.js",
+    "index.html": "/studious_graph/index.html",
+    "main.e6c13ad2.css.map": "/studious_graph/static/css/main.e6c13ad2.css.map",
+    "main.f0a394f9.js.map": "/studious_graph/static/js/main.f0a394f9.js.map",
+    "453.f161a193.chunk.js.map": "/studious_graph/static/js/453.f161a193.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f0a394f9.js"
+  ]
+}
